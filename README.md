@@ -14,7 +14,7 @@ Aplikasi ini adalah API sederhana untuk mengelola koleksi buku. Dibangun menggun
 
 ## Teknologi yang Digunakan
 
-- **Node.js**: Framework backend.
+- **Node.js**: Run time backend.
 - **Express.js**: Library untuk membuat server API.
 - **MySQL**: Database untuk menyimpan data buku.
 - **Postman**: Untuk menguji API.
